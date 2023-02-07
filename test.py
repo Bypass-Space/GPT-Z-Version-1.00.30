@@ -6,3 +6,5 @@ x = 10
 function (x)
 
 print("test")
+
+print ("Hello World")
