@@ -4,3 +4,5 @@ def function (x):
 x = 10
 
 function (x)
+
+print("test")
