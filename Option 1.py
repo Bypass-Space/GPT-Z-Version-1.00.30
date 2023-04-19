@@ -1,7 +1,7 @@
 import requests
 
 API_ENDPOINT = "https://api.openai.com/v1/engines/text-davinci-003/completions"
-API_KEY = "INSERT YOUR OPENAI API KEY"
+API_KEY = input("ENTER YOUR API KEY: ")
 prompt = input("Hello I am GPT-Z, How May I Help You? ")
 headers = {
     "Content-Type": "application/json",
