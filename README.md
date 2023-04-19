@@ -7,8 +7,11 @@ GPT-Z is an advanced AI language model developed with the help of OpenAI and @By
 This project contains two ways  you can access the OpenAI API for ChatGPT and their Codex.
 
 Important Notes:
+
 ◉ In ANY of the code where it says "INSERT YOUR OPENAI API KEY" insert your own key.
+
 ◉ You may need to install some modifications or extensions using the "pip install _" command in your PC/Mac terminal.
+
 ◉ You will need to have Python installed.
 
 
